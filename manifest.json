@@ -1,0 +1,28 @@
+{
+  "short_name": "Portofolio Fatih",
+  "name": "Portofolio Fatih React",
+  "icons": [
+    {
+      "src": "/express.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/express.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/express.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "gcm_sender_id": "790290386851"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

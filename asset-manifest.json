@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/css/main.415d8edb.css",
+    "main.js": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/js/main.74a893da.js",
+    "static/media/perguruan-tinggi.png": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/perguruan-tinggi.eec34a0eb0e6802553e1.png",
+    "static/media/Instagram_icon.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/Instagram_icon.de2fdfbea11bfa09bf10.webp",
+    "static/media/node.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/node.7bcc72f24f3d58171096.webp",
+    "static/media/dicoding.PNG": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/dicoding.fafa0a971ebbde12fccc.PNG",
+    "static/media/laravel.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/laravel.75730954aba720d61fb2.webp",
+    "static/media/Oracle java.PNG": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/Oracle java.381e5911a327079d0d05.PNG",
+    "static/media/background.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/background.a436f51291d63ae017bf.webp",
+    "static/media/html.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/html.abe41dac183411f59a21.webp",
+    "static/media/css.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/css.ff318e7c305dcd661ba4.webp",
+    "static/media/mts.png": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/mts.a17f8949ff0d42bd4abc.png",
+    "static/media/sd.png": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/sd.eedca93a4a0a76a43121.png",
+    "static/media/php.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/php.523fb572cab8862e8dd8.webp",
+    "static/media/smk.png": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/smk.e1f22f8f1a130efa3aad.png",
+    "static/media/Oracle database.PNG": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/Oracle database.ddd92e030d3ddb08e7e2.PNG",
+    "static/media/react.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/react.da70d412d66162926bf5.webp",
+    "static/media/express.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/express.3ef9e17c1770170b9cb0.webp",
+    "static/media/fath.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/fath.d846ea76a3d491678785.webp",
+    "static/media/mysql.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/mysql.ef4d26b1c91ca222fafb.webp",
+    "static/media/github_logo.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/github_logo.195caceb6caf6ecbbfb0.webp",
+    "static/media/javascript.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/javascript.5e8f39a61d3ffd75a53d.webp",
+    "static/media/mongodb.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/mongodb.ab71227cc151c495ee32.webp",
+    "static/media/facebook_logo.webp": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/media/facebook_logo.aff4ced5a60d741d5c72.webp",
+    "index.html": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/index.html",
+    "main.415d8edb.css.map": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/css/main.415d8edb.css.map",
+    "main.74a893da.js.map": "/22205026-CV-Achmad-Fatich-Muzaqi-PWA/static/js/main.74a893da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415d8edb.css",
+    "static/js/main.74a893da.js"
+  ]
+}
